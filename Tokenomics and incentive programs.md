@@ -5,6 +5,7 @@ Aleph.im首先要感谢我们伟大的社区一直以来的支持！上周进行
 代币分配方案
  
 旧方案
+![旧方案](https://user-images.githubusercontent.com/68335058/87911342-070a9900-ca9e-11ea-9602-abdb4219c247.png)
 
 150M（空投，营销和赏金）
 150M（POCM，其他）
@@ -12,8 +13,8 @@ Aleph.im首先要感谢我们伟大的社区一直以来的支持！上周进行
 350M（预留）
  
 新方案
+![新方案](https://user-images.githubusercontent.com/68335058/87911410-286b8500-ca9e-11ea-9a79-77ee50e46f39.png)
 
- 
 150M —创新池
 150M —市场营销池
 275M —公司池
